@@ -15,4 +15,7 @@ Project 7 is an opportunity to work on some Machine Learning concepts
     5. 1. source .venv/bin/activate <!-- On Mac, this command would activate the environment -->
     6. At terminal, use the command "code ~/Repos/datafun-07-ml" to launch VS Code (previously installed on MAC) to open/edit/execute code related to this project.
     7. Within VS Code, open a Terminal windows, to run my written *.py code, issue the commands `python3 *.py`
+    8. Within VS Code, open *.ipynb and click on "Run All" to run both Markdown cells and Python code cells.
    
+## Documentation on ipynb notebook
+    Per the nature of this project #07, pls open tran_ml.ipynb and read everything there from to to bottom (including the Bonus -- Part 05 at the bottom).
